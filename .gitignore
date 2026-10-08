@@ -1,0 +1,42 @@
+# --- AI / agent tooling ---
+.claude/
+CLAUDE.md
+.agent/
+
+# --- IDEs ---
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.run/
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# --- Gradle / build output ---
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- Minecraft run directories ---
+run/
+run-data/
+runs/
+logs/
+crash-reports/
+*.log
+
+# --- Local, non-redistributable dependencies (copy from C:/wv) ---
+libs/
+
+# --- Audit reports (kept in the project records, not in the repo) ---
+codeWalkthrough.txt
+auditFindings.md
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
+desktop.ini

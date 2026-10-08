@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "vaultspellbook:item/glyph_background",
+    "layer1": "the_vault:gui/abilities/shell"
+  }
+}

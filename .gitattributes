@@ -1,0 +1,10 @@
+# Line endings: shell scripts must stay LF (gradlew breaks on Linux/macOS with CRLF), batch files CRLF.
+* text=auto
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Binary assets
+*.png binary
+*.ogg binary
+*.jar binary

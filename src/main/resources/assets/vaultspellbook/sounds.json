@@ -1,0 +1,20 @@
+{
+  "arcane_charge": {
+    "subtitle": "vaultspellbook.subtitle.arcane_charge",
+    "sounds": [
+      {
+        "name": "vaultspellbook:arcane_charge",
+        "stream": true
+      }
+    ]
+  },
+  "arcane_blast": {
+    "subtitle": "vaultspellbook.subtitle.arcane_blast",
+    "sounds": [
+      {
+        "name": "vaultspellbook:arcane_blast",
+        "stream": true
+      }
+    ]
+  }
+}
